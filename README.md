@@ -27,7 +27,7 @@ Facultativement, la validation de schéma peut être utilisée pour appliquer de
 
 ## le MCD
 
-MCD pour modèle conceptuel de données est la représentation la plus abstraite des données d'un système d'information.
+**MCD** pour modèle conceptuel de données est la représentation la plus abstraite des données d'un système d'information.
 Les données sont représentées sous forme d'entités et d'associations entre entité.
 
 Une entité est ensemble d'éléments de même nature. 
@@ -41,4 +41,49 @@ Les entités et associations sont les briques essentielles de réalisation d'un 
 - Les contraintes implicites et explicites
 - ...
 
+Un modèle conceptuel de données (**MCD**) est réalisé pour représenter les données d'un système d'information.
+
+## API REST
+
+**API** signifie Application Programming Interface.
+
+Dans le cas d'une **API** l'interface va être comme une sorte télécomande pour que votre application web puisse interagir avec un service qui vous offre une ressource
+
+Les **API REST** sont basées sur HTTP
+
+Les API REST imitent la façon dont le web lui-même marche dans les échanges entre un client et un serveur. Une API REST est :
+
+- Sans état
+
+- Cacheable (avec cache = mémoire)
+
+- Orienté client-serveur
+
+- Avec une interface uniforme
+
+- Avec un système de couche
+
+- Un code à la demande (optionnel)
+
+
+## la CLI
+
+**CLI** pour command line interface, qui comme son nom l'indique est une interface qui utilise un terminal sur votre ordinateur et des ligne de commande pour interagir avec un système.
+
+Par exemple, quand vous utilisez le gestionaire de paquets NPM vous utilisé un cli et vous faites des ligne de commande pour installer les paquets dont vous avez besoin pour votre application web.
+ou encore git bash et la cli pour interagir avec git.
+
+
+## ORM
+
+Un mapping objet-relationnel (en anglais object-relational mapping ou ORM) est un type de programme informatique qui se place en interface entre un programme applicatif et une base de données relationnelle pour simuler une base de données orientée objet.
+Ce programme définit des correspondances entre les schémas de la base de données et les classes du programme applicatif.
+On pourrait le désigner par là, « comme une couche d'abstraction entre le monde objet et monde relationnel ».
+Du fait de sa fonction, on retrouve ce type de programme dans un grand nombre de frameworks sous la forme de composant ORM qui a été soit développé, soit intégré depuis une solution externe.
+
+## langage objet
+
+
+
+## aplication hybride
 
